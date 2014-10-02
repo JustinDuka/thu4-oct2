@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# thu4 oct2
+#
+
+projectname: thu4 oct2
+vendorid: com.duka.example
+mainmodule: com.duka.example.thu4oct2
